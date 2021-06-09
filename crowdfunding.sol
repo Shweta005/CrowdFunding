@@ -80,7 +80,11 @@ contract Crowdfunding{
             emit Voted(msg.sender,_add);
         }
         
-        
+        function CheckVotes(address _add) public view {
+             uint id = owners[_add];
+             if(ownerId[id].votes)
+              
+        }
         
         
          

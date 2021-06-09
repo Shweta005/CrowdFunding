@@ -68,6 +68,19 @@
 				"type": "event"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_add",
+						"type": "address"
+					}
+				],
+				"name": "CheckVotes",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "Governance",
 				"outputs": [
@@ -291,10 +304,10 @@
 	},
 	"sources": {
 		"crowdfunding.sol": {
-			"keccak256": "0xf82b2301df66da23b27e9cfe439aa2e6b79b9121db44ae9aedb78a9e0a46994e",
+			"keccak256": "0x5149bb3983c985e422fc622453d7f90c001b20657a6b1bb25d3fd4977480b6aa",
 			"urls": [
-				"bzz-raw://a63b39a15e1c7ff9676b08a44a21e75ec4c0f43337ba68cde89dc48fd1db8bab",
-				"dweb:/ipfs/Qmf3CEggLhBNXqbaDyVRSgkZygWKKDnmWGSL5Q7d2eTWQz"
+				"bzz-raw://803672e8b37bb7e57022645eb1ff1d3223465b92decfbb49c0897b4eef6ead85",
+				"dweb:/ipfs/QmeoDijUhNqgQXJsAucAYydT9kTk25dkK2cHXvpBPVLVDW"
 			]
 		}
 	},
