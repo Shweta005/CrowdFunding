@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"crowdfunding.sol": "n"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"crowdfunding.sol": {
+			"keccak256": "0xf1062a5b959bcab1a86ca7f29a66e575849c9d3251305d0dcad90062c79fecd4",
+			"urls": [
+				"bzz-raw://c7a114698677dd6ba41bf8d384fe73a6759c47e659a7da32b1daf9e4e76c715e",
+				"dweb:/ipfs/QmU8EhSGCFsNr79Zmuqkd9eqtN4TvqjENWZXspnALu11wf"
+			]
+		}
+	},
+	"version": 1
+}
