@@ -291,10 +291,10 @@
 	},
 	"sources": {
 		"crowdfunding.sol": {
-			"keccak256": "0xd35c3d6e45a7436bdd7ef72dae370bb2abf47d95ea68c9ed81cccf76cb588433",
+			"keccak256": "0xf82b2301df66da23b27e9cfe439aa2e6b79b9121db44ae9aedb78a9e0a46994e",
 			"urls": [
-				"bzz-raw://a16818249ebc6a7de9f68195f081868d43974826e9fd123fd501b6654f6b714e",
-				"dweb:/ipfs/QmfV8Tzv9ZbozV5xfVyuXnJr5KrNQbZ9jkDezQ8zfoHVEx"
+				"bzz-raw://a63b39a15e1c7ff9676b08a44a21e75ec4c0f43337ba68cde89dc48fd1db8bab",
+				"dweb:/ipfs/Qmf3CEggLhBNXqbaDyVRSgkZygWKKDnmWGSL5Q7d2eTWQz"
 			]
 		}
 	},
